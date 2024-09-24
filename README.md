@@ -1,8 +1,8 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/50786070?v=4" style="border-radius: 50%;"/>
-   <h1 align="center">¡Hola 👋! Soy Genaro 👨‍💻</h1>
-   Soy estudiante de Ingenieria de Software 7mo ciclo en la UTP, y egresado de Senati en la carrera de Desarrollador de Software, tengo experiencia como desarrollador web con      React, NextJS y Laravel.
-</p>
+<div align="center">
+   <img width="200" src="https://avatars.githubusercontent.com/u/50786070?v=4" style="border-radius: 50%;" />
+   <h1>¡Hola 👋! Soy Genaro 👨‍💻</h1>
+   <p>Soy estudiante de Ingeniería de Software 7mo ciclo en la UTP, y egresado de Senati en la carrera de Desarrollador de Software. Tengo experiencia como desarrollador web con React, NextJS y Laravel.</p>
+</div>
 
 ## **Mis estadisticas**
 [![Mis Stats](https://github-readme-stats.vercel.app/api?username=Genaro-Robles&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
