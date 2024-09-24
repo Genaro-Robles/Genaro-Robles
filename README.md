@@ -3,8 +3,6 @@
    <h3 align="center">¡Hola 👋! Soy Genaro 👨‍💻</h3>
 </p>
 
-<div align="center">
-[![Genaro-Robles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genaro-Robles)]
-</div>
-   
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mis Stats](https://github-readme-stats.vercel.app/api?username=Genaro-Robles)](https://github.com/anuraghazra/github-readme-stats)
