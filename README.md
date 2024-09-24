@@ -1,9 +1,3 @@
-<style>
-  .profile-img {
-    border-radius: 100%;
-  }
-</style>
-
 <div align="center">
    <img class="profile-img" width="200" src="https://avatars.githubusercontent.com/u/50786070?v=4" />
    <h1>¡Hola 👋! Soy Genaro 👨‍💻</h1>
