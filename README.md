@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/50786070?v=4" style="border-radius: 100%"/>
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/50786070?v=4" style="border-radius: 100%;"/>
    <h1 align="center">¡Hola 👋! Soy Genaro 👨‍💻</h1>
    Soy estudiante de Ingenieria de Software 7mo ciclo en la UTP, y egresado de Senati en la carrera de Desarrollador de Software, tengo experiencia como desarrollador web con      React, NextJS y Laravel.
 </p>
