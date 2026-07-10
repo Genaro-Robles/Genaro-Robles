@@ -1,7 +1,7 @@
 <div align="center">
    <img class="profile-img" width="200" src="https://avatars.githubusercontent.com/u/50786070?v=4" />
    <h1>¡Hola 👋! Soy Genaro 👨‍💻</h1>
-   <p>Soy estudiante de Ingeniería de Software 8vo ciclo en la UTP, y egresado de Senati en la carrera de Desarrollador de Software. Tengo experiencia como desarrollador web con React, NextJS y Laravel.</p>
+   <p>Soy estudiante de Ingeniería de Software 9no ciclo en la UTP, y egresado de Senati en la carrera de Desarrollador de Software. Tengo experiencia como desarrollador web con Laravel, Livewire y AlpineJS.</p>
 </div>
 
 ## **Mis estadisticas**
